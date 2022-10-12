@@ -1,0 +1,15 @@
+.font{display: flex;
+    background-color: cadetblue;
+    height: 55px;
+    justify-content: space-evenly;
+    box-sizing: border-box;
+    padding: 12px 0px;
+    font-size: xx-large;
+    
+
+}
+.font a{height: 35px;
+    width: 35px;
+    background-color:indianred;
+    box-shadow: 8px 7px 3px;
+}
